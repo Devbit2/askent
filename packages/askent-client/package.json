@@ -1,14 +1,14 @@
-{
+i{
   "name": "askent-client",
   "version": "0.1.0",
   "license": "MIT",
   "description": "A simple presentation tool",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BerlinChan/askent.git",
+    "url": "https://github.com/devbit2/askent.git",
     "directory": "packages/askent-client"
   },
-  "homepage": "https://askent.berlinchan.com/",
+  "homepage": "https://github.com/devbit2/askent",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
