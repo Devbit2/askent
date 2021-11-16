@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "license": "MIT",
   "description": "",
-  "homepage": "https://askent.berlinchan.com/",
+  "homepage": "https://github.com/devbit2/askent",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BerlinChan/askent.git",
+    "url": "https://github.com/devbit2/askent.git",
     "directory": "packages/askent-server"
   },
   "scripts": {
